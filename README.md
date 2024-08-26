@@ -32,3 +32,6 @@ How It Works
 User Interface:
 
     Tkinter GUI: Provides a simple and intuitive interface for managing passwords and using the password generator.
+    
+Disclaimer
+    This application is still in development. Use it at your own risk and do not store sensitive information until future updates are applied to enhance security.
